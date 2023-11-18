@@ -1,4 +1,4 @@
-# ecommerce_system-composition-
+# ecommerce_system-composition
 
 This is a simple e-commerce system implemented in Python that simulates the functionality of an online store. The project employs various programming techniques and concepts to create a functional and interactive system. Below is an overview of the main components and techniques used in the project:<hr>
 
